@@ -25,6 +25,13 @@ This project focuses on the design and analysis of a **marine propeller** using 
 - The final shape was modeled in **CAD software**.
 - Performance metrics were evaluated, and improvements were suggested.
 
+## Images
+### Final Propeller Design
+![Propeller Design](propeller.png)
+
+### Alternative View
+![Propeller Alternative View](propeller2.png)
+
 ## How to Use
 1. Open `BEMT_Calculations.xlsx` to review the propeller calculations.
 2. View `Propeller.png` and `Propeller2.png` for the final design.
@@ -34,5 +41,4 @@ This project focuses on the design and analysis of a **marine propeller** using 
 - Validate results with CFD simulations.
 - Compare with experimental data.
 - Explore alternative materials and manufacturing techniques.
-
 
